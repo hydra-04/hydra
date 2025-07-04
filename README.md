@@ -7,12 +7,12 @@ login form
 
 
 
-<input type>="username"
+<input type>= username
 
 
 
   
-<input type>="password"
+<input type>= "password"
 
 
 
@@ -37,4 +37,4 @@ login form
 
 
 
-<input type="date"
+<input type>="date"
