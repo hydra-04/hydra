@@ -7,17 +7,17 @@ login form
 
 
 
-<input type="username"
+<input type>="username"
 
 
 
   
-<input type="password"
+<input type>="password"
 
 
 
 
-<background"coler#333">
+
 
 
 
