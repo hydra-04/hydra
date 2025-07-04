@@ -2,7 +2,7 @@
 my first web
 
 
-instagram> ad1shhhhhh_ follow>
+<button>instagram> ad1shhhhhh_ follow>
 
 
 
@@ -16,7 +16,9 @@ instagram> ad1shhhhhh_ follow>
 
 
 
-<button>contact <print>felipxlz.exe123@gmail
+<button>contact
+
+<print>felipxlz.exe123@gmail
 
 
 
